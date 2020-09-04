@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: frontend-lab01
-          image: nalleyda/frontend-lab01
+          image: jsko21c/frontend-lab01
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
